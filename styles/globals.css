@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;400;700&display=swap');
+
 html,
 body {
-  padding: 0;
+  padding: 1rem;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: rgb(21, 12, 58);
+  font-family: 'Noto Sans JP', sans-serif;
+  color: aliceblue;
 }
 
 a {
